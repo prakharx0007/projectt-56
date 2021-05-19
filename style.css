@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+div {
+    margin-top: 15px;
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+.image-section {
+    justify-content: center;
+    background: linear-gradient(#4568dc 0%, #b06ab3 100%);
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
